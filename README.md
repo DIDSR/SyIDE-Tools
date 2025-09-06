@@ -54,23 +54,17 @@ Coverage.ipynb computs diversity and variability of synthetic data:
 
 ## File Structure
 
+```
 ├── requirements.txt # Python dependencies
-
 ├── FeatureExtraction.ipynb # Feature extraction (run first)
-
 ├── Congruence.ipynb # Congruence metrics calculation
-
 ├── Coverage.ipynb # Coverage metrics calculation
-
 ├── outputs/ 
-
 │ ├── features/ # Extracted feature CSV files
-
 │ ├── plots/ # Outputted plots
-
 │ └── stats/ # Computed metric results 
-
 └── README.md
+```
 
 ## Metric Libraries
 
