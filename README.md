@@ -16,7 +16,7 @@ The framework provides metric libraries to evaluate synthetic medical imaging da
 Install the required dependencies:
 
 ```
-> pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Quick Start
