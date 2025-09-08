@@ -13,7 +13,7 @@ The framework provides metric libraries to evaluate synthetic medical imaging da
 
 ### Prerequisites
 
-Install the required dependencies:
+This software was developed using Python 3.12.8. The required dependencies include:
 
 ```
 pip install -r requirements.txt
