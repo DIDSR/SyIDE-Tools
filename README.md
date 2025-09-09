@@ -1,6 +1,6 @@
 # SyIDE-Tools: Synthetic Imaging Data Evaluation Tools
 
-This repository implements a comprehensive evaluation framework for assessing the quality of synthetic medical imaging data, providing standardized metrics for congruence and coverage analysis as described in Zamzmi et al. (2025).
+This repository implements a comprehensive evaluation framework for assessing the quality of synthetic medical imaging data, providing standardized metrics for congruence and coverage analysis as described in [Zamzmi et al. (2025)](https://www.nature.com/articles/s44172-025-00450-1).
 
 ## Overview
 
@@ -18,6 +18,8 @@ This software was developed using Python 3.12.8. The required dependencies inclu
 ```
 pip install -r requirements.txt
 ```
+
+See [requirements.txt](https://github.com/DIDSR/SyIDE-Tools/blob/main/requirements.txt) for complete dependency list with versions.
 
 ## Quick Start
 
@@ -113,7 +115,7 @@ See `requirements.txt` for complete dependency list with versions.
 
 ## Citation
 
-Zamzmi G, Subbaswamy A, Sizikova E, Margerrison E, Delfino JG, Badano A. Scorecard for synthetic medical data evaluation. Commun Eng. 2025 Jul 21;4(1):130. doi: 10.1038/s44172-025-00450-1. PMID: 40691520; PMCID: PMC12280076.
+Zamzmi G, Subbaswamy A, Sizikova E, Margerrison E, Delfino JG, Badano A. [Scorecard for synthetic medical data evaluation](https://www.nature.com/articles/s44172-025-00450-1). Commun Eng. 2025 Jul 21;4(1):130. doi: 10.1038/s44172-025-00450-1. PMID: 40691520; PMCID: PMC12280076.
 
 ## Contact
 
