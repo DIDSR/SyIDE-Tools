@@ -37,6 +37,9 @@ FeatureExtraction.ipynb extracts statistical features from your medical images i
 
    The extracted features are saved in a CSV file.
 
+    > [!CAUTION]
+    > You must change the variable `IMAGE_MAIN_DIR` to the directory containing your preprocessed image datasets.
+
 2. **Calculate Congruence Metrics**
    
 Congruence.ipynb computes similarity metrics between synthetic and real datasets:
